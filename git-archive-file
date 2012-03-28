@@ -1,0 +1,3 @@
+#!/bin/bash
+FILENAME=$(basename $(pwd)).$(git describe --always --long).zip
+echo $FILENAME
