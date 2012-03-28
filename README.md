@@ -17,4 +17,5 @@ In a git repository: `git archive-file`
 * Installation through a script/Makefile
 * Maybe send this as a pull request to [git-extras]
 (https://github.com/visionmedia/git-extras)
-* (Test on windows)
+* (Test on Windows)
+* Autocompletion
