@@ -19,4 +19,4 @@ OUTPUT=$(pwd)/$FILENAME
 # building archive
 git archive --format zip --output $OUTPUT $BRANCH
 # also display size of the resulting file
-echo Saved current state of repository to \"$FILENAME\" \(`du -h $OUTPUT | cut -f1`\)
+echo Saved to \"$FILENAME\" \(`du -h $OUTPUT | cut -f1`\)
