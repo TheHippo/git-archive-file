@@ -1,3 +1,5 @@
+**Discontinued:** This is now part of [git-extras](https://github.com/tj/git-extras/blob/master/Commands.md#git-archive-file)
+
 # git-archive-file
 
 A simple git command extension to archive all tracked files into a
